@@ -1,6 +1,6 @@
 = zim-oh-my-posh
 
-https://github.com/zimfw/zimfw[zim module] for the https://github.com/oh-my-posh/oh-my-posh[oh-my-posh prompt].
+https://github.com/zimfw/zimfw[zim module] for the https://github.com/JanDeDobbeleer/oh-my-posh[oh-my-posh prompt].
 
 == Features
 
