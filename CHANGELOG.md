@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/joke/zim-oh-my-posh/compare/v1.0.0...v1.0.1) (2025-05-17)
+
+
+### Bug Fixes
+
+* removed starship remnants ([7641987](https://github.com/joke/zim-oh-my-posh/commit/7641987722be91b4280ed90d1f9faa98ee0dbc57))
+
 ## 1.0.0 (2025-05-17)
 
 
