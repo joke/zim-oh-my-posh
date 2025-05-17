@@ -1,8 +1,8 @@
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 repository:
-  name: zim-starship
-  description: zim module for the starship prompt
-  topics: zsh, zim, zimfw, module, starship-prompt
+  name: zim-oh-my-posh
+  description: zim module for the oh-my-posh prompt
+  topics: zsh, zim, zimfw, module, oh-my-posh, prompt
   private: false
   has_issues: true
   has_projects: false
