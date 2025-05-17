@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.0.0 (2025-05-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* initial release
+
+### Features
+
+* initial release ([1d33432](https://github.com/joke/zim-oh-my-posh/commit/1d334324082d34312ba62750bf54c7aa35565fbe))
+
 ## [1.2.0](https://github.com/joke/zim-oh-my-posh/compare/v1.1.1...v1.2.0) (2022-09-17)
 
 
