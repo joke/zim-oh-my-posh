@@ -10,12 +10,5 @@
     zcompile -UR $initfile
   fi
 
-  # generating completions
-  local compfile=$1/functions/_oh-my-posh
-  if [[ ! -e $compfile || $compfile -ot $command ]]; then
-    $command completions zsh >| $compfile
-    print -u2 -PR "* Detected a new version of 'oh-my-posh'. Regenerated completions."
-  fi
-
   source $initfile
 } ${0:h}
